@@ -47,7 +47,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-toggle {
   background-color: #000;
 }
-
+.productinfo.text-center img {
+    height: 225px;
+}
 a#scrollUp {
   bottom: 0px;
   right: 10px;
@@ -886,8 +888,9 @@ h2.title {
   width: 100%;
 }
 
-.productinfo{
- position:relative;
+.productinfo {
+    position: relative;
+    height: 380px;
 }
 
 .product-overlay {
